@@ -1,0 +1,35 @@
+html {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: Verdana; 
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.head {
+  font-size: 50px;
+}
+
+.guide h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.guide p {
+  font-size: 21px;
+  color: gray;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+}
